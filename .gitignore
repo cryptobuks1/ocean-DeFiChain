@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/*
+!.idea/inspectionProfiles/
+!.idea/dictionaries/
+!.idea/codeStyles/
+!.idea/modules.xml
+!.idea/*.iml
+!.idea/README.md
